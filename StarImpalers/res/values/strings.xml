@@ -1,0 +1,5 @@
+<resources>
+    <string name="service_msg">Star Impalers (Click to play)</string>
+    <string name="service_name">StarImpalersService</string>
+    <string name="activity_name">StarImpalersActivity</string>    
+</resources>
